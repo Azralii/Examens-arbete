@@ -1,11 +1,11 @@
-## Examens-arbete
+##  Examens-arbete
 
-# Anpassad WordPress-bloggutveckling
+ Anpassad WordPress-bloggutveckling
 
 Kort beskrivning:
 Applikationen syftar till att utveckla en anpassad WordPress-blogg skräddarsydd för specifika användarbehov. Den kommer att ha ett rent och användarvänligt gränssnitt, med anpassningsbara teman och layouter för att passa olika innehållstyper. Användare kommer att ha möjlighet att skapa, publicera och hantera blogginlägg, inklusive text, bilder och multimediainnehåll. Bloggen kommer också att innehålla funktioner som kommentarer, social delning och sökfunktioner för att öka användarens engagemang och interaktion.
 
-# Tekniker och programmeringsspråk:
+ Tekniker och programmeringsspråk:
 
 WordPress CMS för innehållshantering
 HTML, CSS och JavaScript för frontend-utveckling
@@ -14,7 +14,7 @@ MySQL för databashantering
 Samarbeten:
 Detta projekt kommer att genomföras individuellt, med samarbetsmöjligheter tillgängliga för konsultation med kurslärare för vägledning och feedback under hela utvecklingsprocessen.
 
-# Kravspecifikation:
+ Kravspecifikation:
 
 Användarautentisering och registreringssystem
 Anpassningsbar temautveckling med responsiv design
