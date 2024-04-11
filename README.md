@@ -2,9 +2,8 @@
 
  ## Anpassad WordPress-bloggutveckling
 
-Kort beskrivning:
+ ### Kort beskrivning:
 
-1. Introduktion
 
 The Imagined Blog Platform syftar till att ge användarna en heltäckande bloggupplevelse, så att de kan skapa, redigera och dela innehåll. Detta dokument beskriver de funktionella och icke-funktionella krav som är nödvändiga för utveckling och driftsättning av plattformen.
 
