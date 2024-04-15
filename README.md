@@ -1,90 +1,15 @@
-# Examens-arbete
+# Examesarbte
 
- ## Anpassad WordPress-bloggutveckling
+## Kort beskrivningen
 
- ### Kort beskrivning:
+"Marka Cadey" är ett dynamiskt och användarvänligt restaurangprojekt designat för att tillgodose både de kulinariska preferenser och informationsbehoven hos dess kundkrets. Består av fyra noggrant utformade sidor - Hem, Om oss, Meny och Kontakt - varje sida erbjuder en sömlös navigeringsupplevelse med en konsekvent layout som består av ett sidhuvud, en banner, huvudsektion och sidfot.
 
+Hemsidan fungerar som den digitala dörren till "Marka Caday", och hälsar besökare med en inbjudande layout som visar upp restaurangens atmosfär, utvalda rätter och kommande evenemang. Genom livfulla bilder och kortfattat innehåll syftar denna sida till att fånga essensen av matupplevelsen och locka besökare att utforska vidare.
 
-The Imagined Blog Platform syftar till att ge användarna en heltäckande bloggupplevelse, så att de kan skapa, redigera och dela innehåll. Detta dokument beskriver de funktionella och icke-funktionella krav som är nödvändiga för utveckling och driftsättning av plattformen.
+Om oss-sidan ger insikt i restaurangens etos, historia och team, vilket främjar en djupare koppling till kunder. Genom engagerande berättelser och övertygande bilder får besökarna en inblick i passionen och engagemanget som driver "Marka Caday", vilket skapar förtroende och lojalitet.
 
-2. Funktionskrav
+Menysidan är projektets kulinariska hjärta, och presenterar ett omfattande utbud av aptitretande rätter noggrant sammansatta för att locka smaklökar. Genom att använda intuitiv navigering och visuellt tilltalande design säkerställer den här sidan sömlös bläddring av de olika menyutbuden, tillgodoses med olika preferenser och kostbehov.
 
-2.1. Användarhantering
+Slutligen fungerar kontaktsidan som en direkt kommunikationslinje mellan restaurangen och dess kunder, vilket underlättar bokningar, förfrågningar och feedback. Med användarvänliga formulär och tydlig kontaktinformation säkerställer den här sidan en sömlös interaktion, vilket ökar kundnöjdheten och engagemanget.
 
-● Applikationen ska tillhandahålla registrerings-, inloggnings- och utloggningsfunktioner för användare.
-
-● Användare ska kunna redigera sina inloggningsuppgifter.
-
-● Användarroller ska inkludera admin och användare.
-
-2.2. Blogghantering
-
-● Användare måste kunna skapa, redigera och ta bort blogginlägg.
-
-● Blogginlägg bör stödja taggningsfunktioner.
-
-● Användare ska kunna ladda upp bilder till sina blogginlägg.
-
-● Administratörer ska ha möjlighet att redigera användarroller och hantera taggar för blogginlägg.
-
-● Besökare utan inloggningsuppgifter kan läsa offentliga blogginlägg.
-
-2.3. Interaktionsfunktioner
-
-● Användare ska kunna gilla andra användares blogginlägg.
-
-● Användare måste kunna kommentera andra användares blogginlägg.
-
-2.4. Administrativa funktioner
-
-● Administratörer ska kunna ta bort användare.
-
-● Administratörer kan skapa och redigera taggar för blogginlägg.
-
-2.5. Sessionshantering
-
-● Applikationen ska hantera användarsessioner säkert.
-
-2.6. Cross-Platform-kompatibilitet
-
-● Plattformen måste vara synlig på både mobila och stationära skärmar.
-
-2.7. Datalagring
-
-● Data ska lagras i en relationsdatabas.
-
-● Tabeller relaterade till varandra ska inkludera användare, blogg och kommentarer.
-
-3. Icke-funktionella krav
-
-3.1. Tillgänglighet
-
-● Plattformen ska följa tillgänglighetsstandarder för att säkerställa inkludering.
-
-3.2. säkerhet
-
-● Mekanismer för autentisering och auktorisering av användare ska implementeras på ett säkert sätt.
-
-● Datakrypteringstekniker ska användas för att skydda känslig information.
-
-3.3. Prestanda
-
-● Applikationen ska vara optimerad för effektiv prestanda, med minimala svarstider.
-
-3.4. Skalbarhet
-
-● Plattformen bör utformas för att tillgodose potentiell framtida tillväxt i användarbas och innehåll.
-
-3.5. Installation och distribution
-
-● Användare kan installera temat direkt från WordPress-temaförrådet eller genom att ladda upp tema-zip-filen via WordPress-instrumentpanelen.
-
-● Installationsguiden guidar användare genom att konfigurera viktiga inställningar som databasuppgifter, webbplatstitel och administratörsuppgifter.
-
-Automatiska uppdateringar kommer att stödjas för att säkerställa att användare har tillgång till de senaste funktionerna och säkerhetskorrigeringarna.
-
-● Kompatibilitetskontroller kommer att utföras under installationen för att säkerställa smidig drift med befintliga WordPress-plugins och funktioner.
-
-4. Ytterligare funktioner
-
-Valfria funktioner som att hantera cookies, visa onlineanvändare och avpublicera blogginlägg kan övervägas för framtida utvecklingsupprepningar.
+Genom att sömlöst integrera HTML, CSS och JavaScript, levererar "Marka Caday" en visuellt fängslande och funktionellt robust webbupplevelse, som förkroppsligar essensen av restaurangens varumärkesidentitet. Dessutom, med planer för konvertering till ett WordPress-tema, visar projektet skalbarhet och anpassningsförmåga, redo att utvecklas tillsammans med restaurangens tillväxt och förändrade behov.
