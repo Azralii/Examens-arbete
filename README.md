@@ -31,4 +31,10 @@ Inkludera en karta som visar restaurangens läge för enkel navigering.
 Erbjud ett kontaktformulär för användare att skicka förfrågningar eller göra bokningar online.
 
 
-Genom att sömlöst integrera HTML, CSS och JavaScript, levererar "Marka Caday" en visuellt fängslande och funktionellt robust webbupplevelse, som förkroppsligar essensen av restaurangens varumärkesidentitet. Dessutom, med planer för konvertering till ett WordPress-tema, visar projektet skalbarhet och anpassningsförmåga, redo att utvecklas tillsammans med restaurangens tillväxt och förändrade behov.
+## Teknologier och verktyg
+
+Wordpress CMS
+PHP-programmeringsspråk för att skapa anpassade teman och plugins
+HTML, CSS och JavaScript för frontend-utveckling
+MySQL-databas för att lagra och hantera webbplatsens data.
+
