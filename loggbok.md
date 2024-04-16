@@ -1,7 +1,7 @@
 # Loggbok
 
 Figmalänk: [Länk till Figma](https://www.figma.com/file/YqiqtT8haAu7qNOVKC7NxB/Restaurant-Menu-)?type=design&node-id=0%3A1&mode=design&t=0dekU8jtWptR2l7v-1)
-Gitrepo till projekt: [Länk till Git-repot]()
+Gitrepo till projekt: (https://github.com/Azralii/Examens-arbete.git)
 
 
 ## Vecka 15
