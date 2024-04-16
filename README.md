@@ -4,11 +4,6 @@
 ## Hemsida:
 
 ## Måste bestå av fyra huvudsektioner:
-## Hem
-## Om oss
-## Meny
-## Kontakt
-
 
 ## Hem:
 
