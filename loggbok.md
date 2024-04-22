@@ -15,9 +15,9 @@ Sedan började jag arbetet med att sätta upp den grundläggande projektstruktur
 Jag kommer Fortsatte utvecklingen av frontend-gränssnittet enligt Figma-designen.
 
 ## Vecka 17
-- Fortsatte utvecklingen av grundläggande struktur för frontend och backend.
-- Implementerade grundläggande funktionalitet för användarautentisering.
-- Planerade för kommande dagar för att färdigställa frontend.
+Fortsatte utvecklingen av grundläggande struktur för frontend och backend.
+Implementerade grundläggande funktionalitet för användarautentisering.
+Planerade för kommande dagar för att färdigställa frontend.
 
 
 
