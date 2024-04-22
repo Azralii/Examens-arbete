@@ -14,6 +14,15 @@ projektbeskrivningen och omfattningen för Mattias.
 Sedan började jag arbetet med att sätta upp den grundläggande projektstrukturen i Git-repot.
 Jag kommer Fortsatte utvecklingen av frontend-gränssnittet enligt Figma-designen.
 
+## Vecka 17
+- Fortsatte utvecklingen av grundläggande struktur för frontend och backend.
+- Implementerade grundläggande funktionalitet för användarautentisering.
+- Planerade för kommande dagar för att färdigställa frontend.
+
+
+
+- 
+
 
 
 
