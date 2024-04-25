@@ -18,6 +18,7 @@ Jag kommer Fortsatte utvecklingen av frontend-gränssnittet enligt Figma-designe
 Fortsatte utvecklingen av grundläggande struktur för frontend och backend.
 Implementerade grundläggande funktionalitet för användarautentisering.
 Planerade för kommande dagar för att färdigställa frontend.
+Jag fick freedback från mattias om ändringen i design figma och jag vill visa honom igen.
 
 
 
