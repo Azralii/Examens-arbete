@@ -21,6 +21,13 @@ Planerade för kommande dagar för att färdigställa frontend.
 Jag fick freedback från mattias om ändringen i design figma och jag vill visa honom igen.
 
 
+## vecka 18
+Slutförde implementationen av frontend-komponenterna enligt designen i Figma.
+Genomförde tester och åtgärdade eventuella problem.
+Förberedde frontend för att redovisa med lärare.
+jag mötte svårigheter med responsiv design och hanterade sista-minuten-ändringar och justeringar.
+
+
 
 
 
