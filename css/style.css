@@ -1,0 +1,434 @@
+/* header css */
+body {
+    font-family: 'Open Sans', sans-serif;
+    background-color: #404040;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.header .navbar {
+    background-color: #fff;
+}
+
+.header .navbar ul li a.nav-link {
+    color: #000;
+    font-size: 18px;
+    font-weight: 600;
+    padding: 5px 18px;
+    text-transform: uppercase;
+    transition: all 0.3s ease 0s;
+    border-bottom: 2px solid transparent;
+    margin: 5px 10px;
+    display: inline-block;
+    text-decoration: none;
+}
+
+.header .navbar ul li a.nav-link:hover{
+    background-color: #000;
+    color: #fff;
+}
+
+.header .navbar ul li.current_page_item a.nav-link{
+    background-color: #000;
+    color: #fff;
+}
+
+.header .navbar button.navbar-toggler {
+    padding: 0;
+}
+
+.header .navbar .navbar-toggler i.fa-solid.fa-bars {
+    font-size: 35px;
+    outline: none;
+    box-shadow: none;
+    border: none;
+    
+}
+
+.header .navbar .navbar-toggler:focus{
+    outline: none;
+    box-shadow: none;
+    border: none;
+}
+
+.header .navbar .navbar-toggler{
+    outline: none;
+    box-shadow: none;
+    border: none;
+}
+
+/* BANNER CSS */
+
+.banner {
+
+    background-image: url('../images/banner.jpg');
+    /* Replace 'banner-placeholder.jpg' with your actual banner image */
+    background-size: cover;
+    background-position: center;
+    height: 700px;
+    /* Adjust the height as needed */
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    text-align: center;
+    color: white;
+    /* Text color */
+    background-repeat: no-repeat;
+    
+    /* filter: blur(50); */
+    /* opacity: 0.5; */
+}
+
+.banner-main.om-oss .banner {
+
+  align-items: center;
+
+}
+
+.banner-content {
+    margin-top: 100px;
+    text-align: center;
+    padding: 20px 30px;
+}
+
+.banner-main.om-oss .banner-content {
+  margin-top: 0;
+}
+
+.banner-content h1{
+    margin: 0 auto;
+    text-align: center;
+    max-width: 500px;
+
+}
+
+.banner-content h1, .banner-content p {
+    color: #479265;
+}
+
+.banner-content h1 {
+    font-size: 64px;
+    /* Seasonal font-size for banner text */
+    margin-bottom: 20px;
+    font-weight: 800;
+}
+.banner-content p {
+  
+    font-size: 40px;
+    font-weight: 800;
+}
+.banner-buttons {
+    margin-top: 50px;
+    
+}
+.banner-buttons a.btn{
+    min-width: 165px;
+    margin: 0 30px;
+    padding: 5px 30px;
+    background-color: #479265;
+    color: #fff;
+    font-size: 36px;
+    font-weight: 700;
+    border-color: #479265;
+    border-radius: 15px;
+
+}
+
+/* main content */
+
+.main .main-inner {
+    background-color: #fff6f6;
+    /* Background color */
+    padding: 50px 0;
+    /* Adjust padding as needed */
+    text-align: center;
+}
+
+.main .main-inner.om-oss {
+  background-color: #D9D9D9;
+}
+
+.main .main-inner.om-oss .pg-content-h{
+  font-size: 40px;
+  color: #479265;
+  font-weight: 800;
+}
+
+.main .main-inner.om-oss .pg-content-text{
+  text-align: center;
+  font-size: 24px;
+  color: #479265;
+  font-weight: 400;
+}
+
+.main .page-content{
+    padding: 0 35px;
+    max-width: 1000px;
+    margin: 0 auto;
+    text-align: center;
+    /* text-align: justify; */
+}
+.main h2.pg-content-h {
+    font-size: 3rem;
+    color: rgb(159, 85, 85);
+    font-weight: 700;
+    margin-bottom: 20px;
+}
+
+.main p.pg-content-text {
+    text-align: justify;
+    font-size: 1.4rem;
+    color: rgb(159, 85, 85);
+    margin-bottom: 30px;
+}
+
+/* main end  */
+
+/* footer css starts here */
+.footer-inner {
+    background-image: url('../images/footer-bg.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding: 20px 30px;
+    /* background-color: #190404; */
+    color: #fff;
+    min-height: 430px;
+}
+.footer-inner p {
+    margin: 0;
+}
+.footer-inner .list-inline-item i {
+    font-size: 40px;
+    color: #fff;
+}
+.footer-inner .footer-link {
+    font-size: 40px;
+    margin-bottom: 30px;
+    text-align: center;
+    font-weight: 400;
+   text-decoration: none;
+   color: #fff;
+   transition: all 0.3s;
+}
+.footer-heading  {
+    margin: 30px 0 ;
+   
+    text-align: center;
+}
+.footer-heading h3{
+    font-size: 40px;
+    margin-bottom: 30px;
+    text-align: center;
+    font-weight: 400;
+    color: #fff;
+}
+.footer-heading p{
+    font-size: 24px;
+    text-align: center;
+    font-weight: lighter;
+    color: #fff;
+    margin-bottom: 40px;
+}
+.copyright-text {
+    font-size: 24px;
+    font-weight: 800;
+}
+.powered-text {
+    font-size: 24px;
+    font-weight: lighter;
+}
+/* .footer-inner .footer-link:hover{
+    color: #b76767;
+} */
+/* footer css ends here */
+
+/*  Menu page css */
+/* 
+.menu-card {
+    margin-bottom: 30px;
+    box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.1);
+  } */
+  
+  .menu-card img {
+    height: 200px;
+    object-fit: cover;
+  }
+  
+  .menu-card-body {
+    background-color: #fff;
+    padding: 10px 20px ;
+  }
+
+  .menu-card .card-title {
+    
+    color: rgb(159, 85, 85);
+    font-size: 20px;
+    font-weight: 600;
+  }
+
+  .main-inner.menu-page{
+    padding: 50px;
+  }
+
+  /* contact form css */
+
+  .contact-form {
+    background-color: #fff;
+    padding: 30px;
+    border-radius: 10px;
+    box-shadow: 0px 0px 10px 0px rgba(0,0,0,0.1);
+  }
+
+  .form-control {
+    border-radius: 5px;
+    box-shadow: none;
+    outline: none;
+    border-color: #5c1919;;
+  }
+  .form-control:focus,.form-control:active{
+    box-shadow: none;
+    outline: none;
+    border-color: #5c1919;;
+  }
+
+  .submit-btn {
+    padding: 10px 30px;
+    font-size: 18px;
+    font-weight: 600;
+    text-transform: uppercase;
+    border-radius: 5px;
+    background-color: #190404;
+    border-color: #190404;
+    transition: all 0.3s;
+  }
+
+  .submit-btn:hover {
+    background-color: #5c1919;
+    border-color: #5c1919;
+  }
+
+  /* om-oss-hem css starts here */
+  .om-oss-main {
+    position: relative;
+  }
+  .om-oss-hem{
+    background-color: #d9d9d9;
+    padding: 30px 50px;
+  }
+  .om-oss-hem-before {
+    position: absolute;
+    text-align: center;
+    left: 50%;
+    transform: translate(-50%);
+    top: -76px;
+    z-index: 88;
+  }
+  .om-oss-hem-after {
+    position: absolute;
+    text-align: center;
+    left: 50%;
+    transform: translate(-50%);
+    bottom: -70px;
+    z-index: 88;
+  }
+
+  .om-oss-hem-text {
+    max-width: 500px;
+    margin: 0 auto;
+    text-align: center;
+  }
+  .om-oss-hem-text h2 {
+    font-size: 40px;
+    font-weight: 600;
+    margin-bottom: 40px;
+  }
+  .om-oss-hem-text p {
+    font-size: 24px;
+    font-weight: 400;
+    margin-bottom: 20px;
+  }
+  /* om-oss-hem css ends here */
+
+  .upplevelse {
+    padding-top: 107px;
+    padding-bottom: 72px;
+    background-color: #fff;
+    text-align: center;
+  }
+  .upplevelse p{
+    font-size: 40px;
+    font-weight: 400;
+    color: #479265;
+    margin: 0;
+  }
+
+  
+  .main-inner.meny-content {
+    padding: 20px 30px;
+    background-color: #D9D9D9;
+  }
+
+  .main-inner.meny-content .menu-heading{
+    
+  }
+
+  .main-inner.meny-content .menu-cards{
+      padding: 40px 0;
+  }
+
+  .main-inner.meny-content .menu-cards .menu-card .menu-img img{
+    max-width: 81px;
+    max-height: 100px;
+  }
+  .main-inner.meny-content .menu-cards .menu-card{
+   display: flex;
+   justify-content: space-between;
+   align-items: center;
+   margin: 10px;
+  }
+  .main-inner.meny-content .menu-cards .menu-card .menu-description{
+
+    text-align: left;
+    margin: 10px;
+  }
+  .main-inner.meny-content .menu-cards .menu-card .menu-description p {
+    font-size: 14px;
+    font-weight: 700;
+    margin: 0;
+    max-width: 200px;
+  }
+  .main-inner.meny-content .menu-cards .menu-card .menu-price p {
+    font-size: 26px;
+    font-weight: 700;
+    margin: 0;
+  }
+
+  .banner.contact {
+
+    clip-path: polygon(50% 0%, 100% 0, 100% 35%, 100% 100%, 77% 100%, 50% 85%, 21% 100%, 0 100%, 0 0, 37% 0);
+
+  }
+
+  .banner-outer {
+    background-color: #fff;
+  }
+
+  .contact .social-media i{
+    font-size: 80px;
+    margin: 0 20px;
+  }
+  .contact .social-media i.a-facebook{
+    color: #4267B2;
+  }
+  .contact .social-media i.fa-instagram{
+    color: #000;
+  }
+  .contact .social-media i.fa-whatsapp{
+    color: #128C7E;
+  }
+  .contact .social-media i.fa-tiktok{
+    color: #000;
+  }

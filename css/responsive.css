@@ -1,0 +1,374 @@
+@media (max-width: 1399.98px) {}
+
+@media (max-width: 1199.98px) {
+    .footer-heading {
+        margin: 0;
+    }
+}
+
+@media (max-width: 991.98px) {
+
+    .om-oss-hem-before,.om-oss-hem-after {
+        display: none;
+    }
+    .banner-buttons a.btn {
+        min-width:auto;
+        margin: 0 10px;
+        padding: 5px 20px;
+        background-color: #479265;
+        color: #fff;
+        font-size: 30px;
+        font-weight: 700;
+        border-color: #479265;
+        border-radius: 15px;
+    }
+    .banner-buttons {
+        margin-top: 10px;
+    }
+
+    .om-oss-hem-text h2 {
+        font-size: 30px;
+        font-weight: 600;
+        margin-bottom: 10px;
+        margin-top: 20px;
+    }
+
+    
+    .om-oss-hem-text p {
+        font-size: 18px;
+    }
+
+    .upplevelse {
+        padding-top: 30px;
+        padding-bottom: 30px;
+    
+    }
+
+    .upplevelse p {
+        font-size: 30px;
+     
+    }
+
+    .footer-heading h3 {
+        font-size: 30px;
+        margin-bottom: 20px;
+    }
+
+    .footer-heading p {
+        font-size: 18px;
+        margin-bottom: 20px;
+    }
+
+    .footer-inner .footer-link {
+        font-size: 30px;
+        margin-bottom: 20px;
+    }
+
+    .footer-inner .list-inline-item i {
+        font-size: 34px;
+    }
+    .copyright-text {
+        margin-top: 20px;
+        font-size: 20px;
+        font-weight:700;
+    }
+    .powered-text {
+        font-size: 20px;
+    }
+
+    .footer-heading {
+        margin: 0;
+    }
+
+    .main .main-inner.om-oss .pg-content-h {
+        font-size: 30px;
+    }
+    .main .main-inner.om-oss .pg-content-text {
+      
+        font-size: 18px;
+      
+    }
+    .contact .social-media i {
+        font-size: 60px;
+        margin: 0 10px;
+    }
+
+}
+
+@media (max-width: 767.98px) {
+
+   
+    .banner {
+        height: 400px;
+    }
+
+
+    .banner-content {
+        margin-top: 0;
+        max-width: 500px;
+    }
+
+    .banner-content p{
+        font-size: 30px;
+    }
+
+    .banner-content h1 {
+        font-size: 35px;
+        /* Seasonal font-size for banner text */
+        margin-bottom: 30px;
+        font-weight: 600;
+    }
+
+    /* main content */
+
+    .main .main-inner {
+        padding: 30px 0;
+    }
+
+    .main .page-content {
+        padding: 0 35px;
+        max-width: 500px;
+
+    }
+
+    .main h2.pg-content-h {
+        font-size: 2rem;
+        font-weight: 700;
+        margin-bottom: 30px;
+    }
+
+    .main p.pg-content-text {
+
+        font-size: 1.5rem;
+        margin-bottom: 30px;
+    }
+    .footer-inner p {
+        margin-bottom: 15px;
+    }
+
+    .om-oss-hem-before,.om-oss-hem-after {
+        display: none;
+    }
+    .banner-buttons a.btn {
+        min-width:auto;
+        margin: 0 10px;
+        padding: 5px 20px;
+        background-color: #479265;
+        color: #fff;
+        font-size: 16px;
+        font-weight: 700;
+        border-color: #479265;
+        border-radius: 15px;
+    }
+    .banner-buttons {
+        margin-top: 10px;
+    }
+
+    .om-oss-hem-text h2 {
+        font-size: 30px;
+        font-weight: 600;
+        margin-bottom: 10px;
+        margin-top: 20px;
+    }
+
+    
+    .om-oss-hem-text p {
+        font-size: 18px;
+    }
+
+    .upplevelse {
+        padding-top: 30px;
+        padding-bottom: 30px;
+    
+    }
+
+    .upplevelse p {
+        font-size: 30px;
+     
+    }
+
+    .footer-heading h3 {
+        font-size: 30px;
+        margin-bottom: 20px;
+    }
+
+    .footer-heading p {
+        font-size: 18px;
+        margin-bottom: 20px;
+    }
+
+    .footer-inner .footer-link {
+        font-size: 30px;
+        margin-bottom: 20px;
+    }
+
+    .footer-inner .list-inline-item i {
+        font-size: 34px;
+    }
+    .copyright-text {
+        font-size: 15px;
+        font-weight:lighter;
+    }
+    .powered-text {
+        font-size: 15px;
+    }
+
+    .footer-heading {
+        margin: 0;
+    }
+
+    .main .main-inner.om-oss .pg-content-h {
+        font-size: 30px;
+       
+    }
+
+    .main .main-inner.om-oss .pg-content-text {
+      
+        font-size: 18px;
+      
+    }
+
+    .contact .social-media i {
+        font-size: 60px;
+        margin: 0 10px;
+    }
+
+}
+
+@media (max-width: 575.98px) {
+
+
+
+    .banner-content p{
+        font-size: 30px;
+    }
+
+    .om-oss-hem-before,.om-oss-hem-after {
+        display: none;
+    }
+    .banner {
+        height: 300px;
+    }
+
+
+    .banner-content {  
+        margin-top: 0;
+        max-width: 300px;
+    }
+
+    .banner-content h1 {
+      
+        font-size: 30px;
+        /* Seasonal font-size for banner text */
+        margin-bottom: 20px;
+        font-weight: 500;
+    }
+
+    /* main content */
+
+    .main .main-inner {
+        padding: 20px 0;
+    }
+
+    .main .page-content {
+        padding: 0 30px;
+        max-width: 400px;
+
+    }
+
+    .main h2.pg-content-h {
+        font-size: 1.5rem;
+        font-weight: 600;
+        margin-bottom: 20px;
+    }
+
+    .main p.pg-content-text {
+
+        font-size: 1rem;
+        margin-bottom: 20px;
+    }
+    .footer-inner p {
+        margin-bottom: 15px;
+    }
+
+    .banner-buttons a.btn {
+        min-width:auto;
+        margin: 0 10px;
+        padding: 5px 20px;
+        background-color: #479265;
+        color: #fff;
+        font-size: 16px;
+        font-weight: 700;
+        border-color: #479265;
+        border-radius: 15px;
+    }
+    .banner-buttons {
+        margin-top: 10px;
+    }
+
+    .om-oss-hem-text p {
+        font-size: 18px;
+    }
+
+    .om-oss-hem-text h2 {
+        font-size: 30px;
+        font-weight: 600;
+        margin-bottom: 10px;
+        margin-top: 20px;
+    }
+
+    .upplevelse {
+        padding-top: 30px;
+        padding-bottom: 30px;
+    
+    }
+
+    .upplevelse p {
+        font-size: 30px;
+     
+    }
+
+    .footer-heading h3 {
+        font-size: 30px;
+        margin-bottom: 20px;
+    }
+
+    .footer-heading p {
+        font-size: 18px;
+        margin-bottom: 20px;
+    }
+
+    .footer-inner .footer-link {
+        font-size: 30px;
+        margin-bottom: 20px;
+    }
+
+    .footer-inner .list-inline-item i {
+        font-size: 34px;
+    }
+    .copyright-text {
+        font-size: 15px;
+        font-weight:lighter;
+    }
+    .powered-text {
+        font-size: 15px;
+    }
+
+    .footer-heading {
+        margin: 0;
+    }
+    .main .main-inner.om-oss .pg-content-h {
+        font-size: 30px;
+       
+    }
+    .main .main-inner.om-oss .pg-content-text {
+      
+        font-size: 18px;
+      
+    }
+
+    .contact .social-media i {
+        font-size: 60px;
+        margin: 0 10px;
+    }
+}
