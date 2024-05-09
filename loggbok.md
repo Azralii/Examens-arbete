@@ -27,6 +27,11 @@ Genomförde tester och åtgärdade eventuella problem.
 Förberedde frontend för att redovisa med lärare.
 jag mötte svårigheter med responsiv design och hanterade sista-minuten-ändringar och justeringar.
 
+## vecka 19
+Jag är färdig temat och har laddat upp det på GIT ,sedan kommer  påbörja installera  temat på WordPress och nästa  steg är för att se hur det fungerar i den faktiska miljön.Jag ska  genomföra ytterligare tester för att säkerställa temats.
+ De kommende dagarna kommer jag att förbereda material för backend.
+
+
 
 
 
