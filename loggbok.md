@@ -31,6 +31,12 @@ jag mötte svårigheter med responsiv design och hanterade sista-minuten-ändrin
 Jag är färdig temat och har laddat upp det på GIT ,sedan kommer  påbörja installera  temat på WordPress och nästa  steg är för att se hur det fungerar i den faktiska miljön.Jag ska  genomföra ytterligare tester för att säkerställa temats.
  De kommende dagarna kommer jag att förbereda material för backend.
 
+ ## Vecka 20:
+Installerade teman på WordPress.
+Mötte svårigheter med att få temat att fungera korrekt och försökte flera gånger.
+Genomförde ytterligare tester för att säkerställa funktionalitet och gjorde justeringar, men hanterade det till slut.
+
+
 
 
 
