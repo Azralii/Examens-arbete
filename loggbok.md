@@ -36,6 +36,11 @@ Installerade teman på WordPress.
 Mötte svårigheter med att få temat att fungera korrekt och försökte flera gånger.
 Genomförde ytterligare tester för att säkerställa funktionalitet och gjorde justeringar, men hanterade det till slut.
 
+ ## Vecka 21
+Jag har gjort ändringar med innehållet i WordPress och hade möte med Mattias. Jag har också länkat sociala medie-ikoner till hemsidan. Jag visade hemsidan för kunden och han uppskattade den verkligen. Kommande dagar kommer jag att förbereda mig för att spela in en video.
+
+
+
 
 
 
