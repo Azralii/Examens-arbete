@@ -2,7 +2,7 @@
 
 Figmalänk: [Länk till Figma](https://www.figma.com/file/QJMGr3mAvGNvpmWqexrNKT/Untitled?type=design&node-id=0%3A1&mode=design&t=QTFAozFQflPn0QEI-1)?type=design&node-id=0%3A1&mode=design&t=0dekU8jtWptR2l7v-1)
 Gitrepo till projekt: (https://github.com/Azralii/Examens-arbete.git)
-eV3bNhhMgo2KQVjedXPZ
+
 
 
 ## Vecka 15
